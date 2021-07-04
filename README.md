@@ -1,2 +1,2 @@
-# EstudosEmC-C-
+# EstudosEmC
 Repósitorio para guardar códigos feitos nas lingugens C e C++
